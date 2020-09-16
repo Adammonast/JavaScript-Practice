@@ -2,14 +2,16 @@
 function walk() {
   console.log("walk");
 }
+walk();
 
 // Function Expression
-// Anonymous function (function without a name)
-// Assigning a function to a variable makes the variable contain a refernce to the function
-const run = function () {
+// Similar to setting a variable to an object
+// Anonymous function (functions without a name)
+// When setting an anonymous function to a variable, the variable holds the reference to the function
+let run = function () {
   console.log("run");
 };
-// Can call the reference like a function
+// Call the function using the reference
 run();
 let move = run;
 move();
