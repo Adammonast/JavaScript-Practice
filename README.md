@@ -5,7 +5,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-This repository is useful for any developer looking to review the essentials for JavaScript. Within the each file are fully built-out examples with comments thoroughly explaning what each piece of the code is doing. I created and utilized this project for the introduction to JavaScript portion of the Lambda School curriculum.
+This repository is useful for any developer looking to review the essentials of JavaScript. Within the each file are fully built-out examples with comments thoroughly explaning what each piece of the code is doing. I created and utilized this project for the introduction to JavaScript portion of the Lambda School curriculum.
 
 Future plans for this project include: adding code challenges with test files to further practice this material.
 
@@ -31,7 +31,7 @@ cd <folder of your choice>
 node <filename>
 ```
 
-<img align="center" src=https://user-images.githubusercontent.com/57102880/94498519-61278900-01c8-11eb-83ef-6f146426980e.png width="600" height="350">
+<img align="center" src=https://user-images.githubusercontent.com/57102880/94498988-8cf73e80-01c9-11eb-9b6b-afddb218296d.png width="600" height="350">
 
 ## Release History
 
